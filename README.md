@@ -31,9 +31,7 @@ Além disso, sou voluntária em uma comunidade de tecnologia, atuando como **lí
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/la%C3%ADs-arantes)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/laisarantesdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/la%C3%ADs-arantes) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/laisarantesdev/)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,mysql,docker,git,github,vscode,html,css,tailwind" />
