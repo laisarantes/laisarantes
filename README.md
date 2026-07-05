@@ -30,8 +30,6 @@ Além disso, sou voluntária em uma comunidade de tecnologia, atuando como **lí
 
 ⭐ Em constante evolução como desenvolvedora e futura engenheira de dados.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laisarantes&theme=tokyo-night)
-
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/la%C3%ADs-arantes) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/laisarantesdev/)
