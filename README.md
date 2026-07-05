@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Laís Arantes
 
-<!--
-**laisarantes/laisarantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Foco em Engenharia de Dados e Desenvolvimento Back-end  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de ADS com foco em Engenharia de Dados e Back-end, desenvolvendo projetos práticos com dados, APIs e automação.
+
+Tenho interesse em construir soluções eficientes, escaláveis e orientadas a dados.
+
+Além disso, sou voluntária em uma comunidade de tecnologia, atuando como **líder de marketing e coordenadora de eventos**, contribuindo com organização, comunicação e engajamento da comunidade.
+
+---
+
+## ⚙️ Tecnologias
+
+📊 **Data Engineering:** Python • SQL • PostgreSQL • SQL Server • Apache Airflow • Docker  
+
+⚙️ **Back-end:** Node.js • Express • REST APIs  
+
+🎨 **Front-end:** React • JavaScript • HTML • CSS • Tailwind CSS  
+
+🤖 **IA:** Explorando Inteligência Artificial
+
+---
+
+⭐ Em constante evolução como desenvolvedora e futura engenheira de dados.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,mysql,docker,git,github,vscode,html,css,tailwind" />
+</p>
