@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Laís%20Arantes&fontSize=30&fontColor=fff" />
 # 👋 Olá! Eu sou Laís Arantes
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
