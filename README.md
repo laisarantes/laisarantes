@@ -18,7 +18,7 @@ Além disso, sou voluntária em uma comunidade de tecnologia, atuando como **lí
 
 ## ⚙️ Tecnologias
 
-📊 **Data Engineering:** Python • SQL • PostgreSQL • SQL Server • Apache Airflow • Docker  
+📊 **Data Engineering:** Python • SQL • PostgreSQL • SQL Server • Apache Airflow • DBT • Docker  
 
 ⚙️ **Back-end:** Node.js • Express • REST APIs  
 
